@@ -3,7 +3,7 @@
   
 ![portofolio](https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif)
 
-<h1> Actualmente trabajo con las siguientes tecnologias: </h1>
+## Actualmente trabajo con las siguientes tecnologias: 
 <p>React • Redux • JavaScript • Typescript • Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize </p>
 
 <div diplay="flex">
