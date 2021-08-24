@@ -1,4 +1,5 @@
 ### Hola, me llamo Iván :wave:
+  Soy un programador Web FullStack
 ![portofolio](https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif)
 
 ## Habilidades:
