@@ -1,5 +1,5 @@
 ### Hola, me llamo Iván :wave:
-![portofolio](https://user-images.githubusercontent.com/81378921/128432816-d73077f9-8614-4520-afa3-1f22a3985df8.gif)
+![portofolio](https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif)
 
 ## Habilidades:
 
@@ -24,4 +24,4 @@
 
 
 ## You can find me :mag::
-- [LinkedIn](https://www.linkedin.com/in/ian-redzio/) :briefcase:
+- [LinkedIn](https://www.linkedin.com/in/ivanbelasich/) :briefcase:
