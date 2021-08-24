@@ -20,9 +20,6 @@
 <img width="8%" alt="Sequelize" src="https://user-images.githubusercontent.com/82492849/127190950-c9023b24-1d27-4502-9c39-b84915a667ae.png%22%3E
 </div>
   
-## Mis proyectos:
-  en proceso...
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IannRedzio)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Puedes encontrarme en :mag::
