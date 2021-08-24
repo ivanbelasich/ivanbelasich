@@ -3,8 +3,6 @@
   
 ![portofolio](https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif)
 
-## Habilidades:
-
 <h1> Actualmente trabajo con las siguientes tecnologias: </h1>
 <p>React • Redux • JavaScript • Typescript • Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize </p>
 
