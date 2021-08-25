@@ -24,4 +24,4 @@
 - [LinkedIn](https://www.linkedin.com/in/ivanbelasich/) :briefcase:
 
 ## O enviarme un mensaje a mi mail:
-- [Gmail](ivanbelasich@gmail.com) :air-conditioner:
+- [Gmail](ivanbelasich@gmail.com) 📧
