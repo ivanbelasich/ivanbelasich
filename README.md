@@ -22,3 +22,6 @@
 
 ## Puedes encontrarme en :mag::
 - [LinkedIn](https://www.linkedin.com/in/ivanbelasich/) :briefcase:
+
+## O enviarme un mensaje a mi mail:
+- [Gmail](ivanbelasich@gmail.com) :icon-envelope-alt:
