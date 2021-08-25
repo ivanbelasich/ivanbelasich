@@ -25,3 +25,9 @@
 
 ## O enviarme un mensaje a mi correo:
 - [Gmail](ivanbelasich@gmail.com) 📧
+
+## Mis proyectos:
+- Proyecto individual "Dogs":
+![Screenshot 2021-08-25 at 00-19-26 React App](https://user-images.githubusercontent.com/70997096/130720971-160a1315-325c-4e25-a92e-3ec947ba235d.png)
+![Screenshot 2021-08-25 at 00-18-49 React App](https://user-images.githubusercontent.com/70997096/130720976-a4c988b4-9bd0-4098-8f36-125d5cc669e3.png)
+
