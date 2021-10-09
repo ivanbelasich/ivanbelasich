@@ -28,7 +28,6 @@
 
 ## Mis proyectos:
 - Proyecto individual "Dogs":
-![Screenshot 2021-08-25 at 00-16-36 React App](https://user-images.githubusercontent.com/70997096/130721019-f1f369d9-a09f-4027-96bb-dabe9628f746.png)
-![Screenshot 2021-08-25 at 00-19-26 React App](https://user-images.githubusercontent.com/70997096/130720971-160a1315-325c-4e25-a92e-3ec947ba235d.png)
+
 
 
