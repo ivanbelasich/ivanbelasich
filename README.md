@@ -24,7 +24,7 @@
 - [LinkedIn](https://www.linkedin.com/in/ivanbelasich/) :briefcase:
 
 ## O enviarme un mensaje a mi correo:
-- [Gmail](ivanbelasich@gmail.com) 📧
+- [Gmail](mailto:ivanbelasich@gmail.com) 📧
 
 ## Mis proyectos:
 - Proyecto individual "Dogs":
