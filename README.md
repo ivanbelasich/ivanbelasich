@@ -1,7 +1,7 @@
 ### Hola, me llamo Iván :wave:
   Soy un programador Web FullStack, apasionado de la tecnologia y en continuo aprendizaje.
   
-![portofolio](https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif)
+![portofolio](http://www.thatzblog.com/wp-content/uploads/2019/03/for-blog-3.gif)
 
 ## Actualmente trabajo con las siguientes tecnologias: 
 <p>React • Redux • JavaScript • Typescript • Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize </p>
