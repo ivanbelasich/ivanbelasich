@@ -26,11 +26,11 @@
 
 ## Mis proyectos:
 - Proyecto individual "Dogs":
-![Screenshot 2021-10-12 at 03-37-48 Dogs App](https://user-images.githubusercontent.com/70997096/136904754-c64fdadc-16b9-4441-96ab-ee10b0dd4c32.png)
+![Screenshot 2021-10-12 at 03-37-48 Dogs App](https://i.ibb.co/KGXHyMm/image7.png)
 
-![Screenshot 2021-10-12 at 03-40-43 Dogs App](https://user-images.githubusercontent.com/70997096/136904869-dc6dade5-2ee8-4f8b-950d-43c0a01efaa7.png)
+![Screenshot 2021-10-12 at 03-40-43 Dogs App](https://i.ibb.co/L9DBHrD/image8.png)
 
-![Screenshot 2021-10-12 at 03-38-42 Dogs App](https://user-images.githubusercontent.com/70997096/136904792-f3e7f750-cf14-43b3-a318-eb1ddd839d21.png)
+![Screenshot 2021-10-12 at 03-38-42 Dogs App](https://i.ibb.co/xqtYvpZ/image10.png)
 
 
 
