@@ -25,12 +25,15 @@
 - [Gmail](mailto:ivanbelasich@gmail.com) 📧
 
 ## Mis proyectos:
-- Proyecto individual "Dogs":
-![Screenshot 2021-10-12 at 03-37-48 Dogs App](https://i.ibb.co/KGXHyMm/image7.png)
+- Proyecto individual "Food-Api":
+
+![Screenshot 2021-10-12 at 03-40-43 Dogs App](https://i.ibb.co/KGXHyMm/image7.png)
 
 ![Screenshot 2021-10-12 at 03-40-43 Dogs App](https://i.ibb.co/L9DBHrD/image8.png)
 
 ![Screenshot 2021-10-12 at 03-38-42 Dogs App](https://i.ibb.co/xqtYvpZ/image10.png)
+
+![Screenshot 2021-10-12 at 03-38-42 Dogs App](https://i.ibb.co/5kk7Wxw/image9.png)
 
 
 
