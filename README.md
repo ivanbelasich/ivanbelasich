@@ -28,12 +28,13 @@
 - Proyecto individual "Food-Api":
 
 ![Screenshot 2021-10-12 at 03-40-43 Dogs App](https://i.ibb.co/KGXHyMm/image7.png)
+Repo: [](https://github.com/ivanbelasich/PI-Food)
 
-![Screenshot 2021-10-12 at 03-40-43 Dogs App](https://i.ibb.co/L9DBHrD/image8.png)
+- Proyecto grupal "Quickly":
+![mis servicios](https://user-images.githubusercontent.com/70997096/191309646-6baa7ede-7818-475a-847e-3bc519cad8bd.jpg)
 
-![Screenshot 2021-10-12 at 03-38-42 Dogs App](https://i.ibb.co/xqtYvpZ/image10.png)
+- Proyecto grupal "Wave-music":
 
-![Screenshot 2021-10-12 at 03-38-42 Dogs App](https://i.ibb.co/5kk7Wxw/image9.png)
 
 
 
