@@ -4,7 +4,7 @@
 ![portofolio](http://www.thatzblog.com/wp-content/uploads/2019/03/for-blog-3.gif)
 
 ## Actualmente trabajo con las siguientes tecnologias: 
-<p>React • Redux • JavaScript •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize </p>
+<p>React • Redux • JavaScript •  React Native • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize </p>
 
 <div diplay="flex">
 <img width="8%" alt="React" src="https://user-images.githubusercontent.com/82492849/127186826-fa23931b-dca7-46db-b33d-4caf6afd984c.png" />
