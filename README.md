@@ -28,12 +28,26 @@
 - Proyecto individual "Food-Api":
 
 ![Screenshot 2021-10-12 at 03-40-43 Dogs App](https://i.ibb.co/KGXHyMm/image7.png)
-Repo: [](https://github.com/ivanbelasich/PI-Food)
+
+Repo: [https://github.com/ivanbelasich/PI-Food](https://github.com/ivanbelasich/PI-Food)
+
+
+
 
 - Proyecto grupal "Quickly":
-![mis servicios](https://user-images.githubusercontent.com/70997096/191309646-6baa7ede-7818-475a-847e-3bc519cad8bd.jpg)
+
+<img width="30%" alt="Quickly" src="https://user-images.githubusercontent.com/70997096/191309646-6baa7ede-7818-475a-847e-3bc519cad8bd.jpg" />
+
+Repo: [https://github.com/No-Country/c6-30-ft-pern](https://github.com/No-Country/c6-30-ft-pern)
+
+
+
 
 - Proyecto grupal "Wave-music":
+
+<img alt="Wave Music" src="https://www.belasichivan.tk/static/media/image2.05bcfc29.png" />
+
+Repo: [https://github.com/mariaelisa492/Repo-para-PG](https://github.com/mariaelisa492/Repo-para-PG)
 
 
 
