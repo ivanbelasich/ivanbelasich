@@ -32,6 +32,11 @@
 
 Repo: [https://github.com/ivanbelasich/PI-Food](https://github.com/ivanbelasich/PI-Food)
 
+- Proyecto grupal "Ta$ks":
+
+![image6](https://user-images.githubusercontent.com/70997096/198904315-5832d841-bea7-46e3-adc5-7312210ed4ee.png)
+
+Repo: [https://github.com/No-Country/s4-07-m-reactnative](https://github.com/No-Country/s4-07-m-reactnative)
 
 
 
