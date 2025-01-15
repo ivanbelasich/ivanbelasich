@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Iván Belasich! 
 
-![IVAN BELASICH](https://github.com/user-attachments/assets/063516a8-e086-4272-a161-cbc14d59c1d6)
+![github-header-image](https://github.com/user-attachments/assets/c2b69d49-bef8-4362-b29c-a0de471f6714)
 
 
 ## 🌟 Sobre Mí  
