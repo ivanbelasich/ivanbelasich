@@ -16,7 +16,8 @@ Durante mi experiencia profesional, he colaborado en distintos proyectos fintech
 
 - **Emigro (Billetera Blockchain)**  
    - Desarrollo de una billetera blockchain con soporte para **registro de usuarios, pagos con lector QR, swap de activos** y **balance de saldos en tiempo real**.  
-   - Integración de **AWS Cognito** para la autenticación y gestión de usuarios.  
+   - Integración de **AWS Cognito** para la autenticación y gestión de usuarios.
+   - 🎥 **Demo:** [Ver video de demostración](https://www.youtube.com/watch?v=nS8COzNxajc)  
 
 - **Planet Pay (Proyecto Interno de Bigger)**  
    - **Landing Page:** Desarrollo de la landing para captación de usuarios.  - **Landing Page:** [Planet Pay](https://planetpay.io) *(Colaboré en su desarrollo durante mi paso por Bigger)*.
