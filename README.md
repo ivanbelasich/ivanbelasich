@@ -25,7 +25,14 @@ Durante mi experiencia profesional, he colaborado en distintos proyectos fintech
 
    - **Dashboard de Selección de Productos:** Implementación de un **carrito de compras** para la selección y contratación de servicios.  
    - **Formulario KYB (Know Your Business):** Creación de un flujo para la validación de clientes y prevención de lavado de dinero.  
-   - **White Label Wallet:** Contribución en una billetera blockchain personalizable para diferentes clientes.  
+  - **White Label Wallet:**  
+   - Contribución en una billetera blockchain personalizable para diferentes clientes.  
+   - Funcionalidades principales:  
+      - **Registro y login de usuarios:** Implementación de un sistema de autenticación completo.  
+      - **Gestión de claves de Stellar:** Manejo seguro de **public key** y **secret key**.  
+      - **Operaciones Blockchain:** Swap de activos, pagos con blockchain y balance de saldos en tiempo real.  
+      - **Historial de transacciones:** Visualización detallada de las operaciones realizadas por el usuario.  
+
 
 ---
 
