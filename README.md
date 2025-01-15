@@ -48,11 +48,6 @@ Durante mi experiencia profesional, he colaborado en distintos proyectos fintech
    - **Metodologías Ágiles:** Scrum (participación en PR reviews y retrospectivas)  
    - **Principios de Desarrollo:** SOLID  
 
----
-
-## 📈 Estadísticas de GitHub  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ivanbelasich&show_icons=true&theme=tokyonight)  
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanbelasich&layout=compact&theme=tokyonight)  
 
 ---
 
