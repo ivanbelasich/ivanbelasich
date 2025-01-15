@@ -48,6 +48,7 @@ Durante mi experiencia profesional, he colaborado en distintos proyectos fintech
    - **Metodologías Ágiles:** Scrum (participación en PR reviews y retrospectivas)  
    - **Principios de Desarrollo:** SOLID  
 
+[Descargar mi CV] [CV Software Developer - Belasich Ivan](https://github.com/user-attachments/files/18429753/CV.Software.Developer.-.Belasich.Ivan.pdf)
 
 ---
 
