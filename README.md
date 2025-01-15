@@ -15,8 +15,9 @@ He trabajado con **metodologías Agile (Scrum)**, participando activamente en **
 Durante mi experiencia profesional, he colaborado en distintos proyectos fintech, destacando:  
 
 - **Emigro (Billetera Blockchain)**  
-   - Desarrollo de una billetera blockchain con soporte para **registro de usuarios, pagos con lector QR, swap de activos** y **balance de saldos en tiempo real**.  
-   - Integración de **AWS Cognito** para la autenticación y gestión de usuarios.
+   - Desarrollo de una billetera blockchain con soporte para **registro de usuarios, pagos con lector QR, swap de activos y balance de saldos en tiempo real**.  
+   - Implementación de **on/off ramp de activos** mediante la integración con **anclas** utilizando los **SEPs (Stellar Ecosystem Proposals)**, permitiendo la conversión de **USD, EUR, BRL, ARS** a **USDC** y otros activos digitales.  
+   - Integración de **AWS Cognito** para la autenticación y gestión de usuarios.  
    - 🎥 **Demo:** [Ver video de demostración](https://www.youtube.com/watch?v=nS8COzNxajc)  
 
 - **Planet Pay (Proyecto Interno de Bigger)**  
