@@ -5,9 +5,7 @@
 
 
 ## 🌟 Sobre Mí  
-Soy un **Desarrollador Full Stack** con experiencia trabajando en una startup fintech, colaborando en proyectos basados en la blockchain **Stellar**. Mi enfoque está en desarrollar soluciones seguras, escalables y con buenas prácticas de código.  
-
-He trabajado con **metodologías Agile (Scrum)**, participando activamente en **revisiones de código (PRs)** y aplicando principios **SOLID** para mantener un código limpio y mantenible.  
+Soy un Desarrollador Full Stack con experiencia trabajando en una startup fintech, colaborando en proyectos basados en la blockchain Stellar. Aunque tengo conocimientos de backend, mi enfoque principal está en el desarrollo frontend y mobile, creando soluciones seguras, escalables y siguiendo buenas prácticas de código.  
 
 ---
 
