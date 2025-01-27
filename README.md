@@ -18,7 +18,7 @@ Durante mi experiencia profesional, he colaborado en distintos proyectos fintech
    - Integración de **AWS Cognito** para la autenticación y gestión de usuarios.  
    - 🎥 **Demo:** [Ver video de demostración](https://www.youtube.com/watch?v=nS8COzNxajc)  
 
-- **Planet Pay (Proyecto Interno de Bigger)**  
+- **Planet Pay **  
    - **Landing Page:** Desarrollo de la landing para captación de usuarios.  - **Landing Page:** [Planet Pay](https://planetpay.io) *(Colaboré en su desarrollo durante mi paso por Bigger)*.
 
    - **Dashboard de Selección de Productos:** Implementación de un **carrito de compras** para la selección y contratación de servicios.  
