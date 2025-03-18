@@ -3,7 +3,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/c2b69d49-bef8-4362-b29c-a0de471f6714)
 
 ## 🌟 Sobre Mí  
-Soy un **Desarrollador Full Stack** con 2 años de experiencia trabajando en una startup fintech, colaborando en proyectos basados en la blockchain **Stellar**. Actualmente me desempeño como Freelance en [GranMenú](https://granmenu.me/). Aunque tengo conocimientos de backend, mi enfoque principal está en el desarrollo **frontend y mobile**, creando soluciones seguras, escalables y siguiendo buenas prácticas de código.  
+Soy un **Desarrollador Full Stack** con 2 años de experiencia trabajando en una startup fintech llamada [Bigger](https://www.biggertech.co), colaborando en proyectos basados en la blockchain **Stellar**. Actualmente me desempeño como Freelance en [GranMenú](https://granmenu.me/). Aunque tengo conocimientos de backend, mi enfoque principal está en el desarrollo **frontend y mobile**, creando soluciones seguras, escalables y siguiendo buenas prácticas de código.  
 
 ---
 
