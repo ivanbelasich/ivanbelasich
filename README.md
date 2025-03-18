@@ -2,58 +2,56 @@
 
 ![github-header-image](https://github.com/user-attachments/assets/c2b69d49-bef8-4362-b29c-a0de471f6714)
 
-
-
 ## 🌟 Sobre Mí  
-Soy un Desarrollador Full Stack con experiencia trabajando en una startup fintech, colaborando en proyectos basados en la blockchain Stellar. Aunque tengo conocimientos de backend, mi enfoque principal está en el desarrollo frontend y mobile, creando soluciones seguras, escalables y siguiendo buenas prácticas de código.  
+Soy un Desarrollador Full Stack con más de 2 años de experiencia trabajando en startups fintech, colaborando en proyectos basados en la blockchain Stellar. Aunque tengo conocimientos de backend, mi enfoque principal está en el desarrollo frontend y mobile, creando soluciones seguras, escalables y siguiendo buenas prácticas de código.  
 
 ---
 
 ## 🎯 Experiencia  
-Durante mi experiencia profesional, he colaborado en distintos proyectos fintech, destacando:  
 
-- **Emigro (Billetera Blockchain)**  
-   - Desarrollo de una billetera blockchain con soporte para **registro de usuarios, pagos con lector QR, swap de activos y balance de saldos en tiempo real**.  
-   - Implementación de **on/off ramp de activos** mediante la integración con **anclas** utilizando los **SEPs (Stellar Ecosystem Proposals)**, permitiendo la conversión de **USD, EUR, BRL, ARS** a **USDC** y otros activos digitales.  
-   - Integración de **AWS Cognito** para la autenticación y gestión de usuarios.  
-   - 🎥 **Demo:** [Ver video de demostración](https://www.youtube.com/watch?v=nS8COzNxajc)  
+### **GranMentú**  
+**Frontend Developer**  
+_Feb 2025 – Actualidad_  
+- Lideré la migración del proyecto LongX desde Create React App a Vite, mejorando significativamente el rendimiento y la velocidad de construcción del proyecto.  
+- Participé en el desarrollo de la landing page de Intercripto, una plataforma de arbitraje de criptomonedas, utilizando tecnologías modernas como React y Tailwind CSS.  
 
-- **Planet Pay **  
-   - **Landing Page:** Desarrollo de la landing para captación de usuarios.  - **Landing Page:** [Planet Pay](https://planetpay.io) *(Colaboré en su desarrollo durante mi paso por Bigger)*.
+### **Bigger (Australia)**  
+**Frontend Developer**  
+_Dic 2023 – Dic 2024_  
+- Lideré el desarrollo de una billetera digital white-label desde cero, implementando funcionalidades clave como swaps de activos, pagos, visualización de balances y transacciones, y autenticación segura mediante **AWS Cognito**.  
+- Desarrollé formularios de KYC (Know Your Customer) para usuarios individuales y KYB (Know Your Business) para empresas, asegurando el cumplimiento de normativas y la seguridad de los datos.  
+- Participé en el desarrollo de la landing page de PlanetPay, optimizando la experiencia del usuario y mejorando la conversión de visitantes a clientes.  
+- Trabajé en un entorno con CI/CD configurado mediante GitHub Actions, utilizando Snyk para la detección y corrección de vulnerabilidades, reduciendo tiempos de despliegue y asegurando la calidad y seguridad del código.  
+- Implementé testing automatizado con Jest, React Testing Library y Cypress, mejorando la estabilidad del código y reduciendo errores en producción.  
+- Utilicé Tailwind CSS para el maquetado de interfaces, siguiendo principios de diseño responsive.  
+- Apliqué principios de diseño SOLID y Clean Architecture para garantizar un código mantenible y escalable.  
 
-   - **Dashboard de Selección de Productos:** Implementación de un **carrito de compras** para la selección y contratación de servicios.  
-   - **Formulario KYB (Know Your Business):** Creación de un flujo para la validación de clientes y prevención de lavado de dinero.  
-  - **White Label Wallet:**  
-   - Contribución en una billetera blockchain personalizable para diferentes clientes.  
-   - Funcionalidades principales:  
-      - **Registro y login de usuarios:** Implementación de un sistema de autenticación completo.  
-      - **Gestión de claves de Stellar:** Manejo seguro de **public key** y **secret key**.  
-      - **Operaciones Blockchain:** Swap de activos, pagos con blockchain y balance de saldos en tiempo real.  
-      - **Historial de transacciones:** Visualización detallada de las operaciones realizadas por el usuario.  
-
+**FullStack Developer**  
+_Abril 2023 – Dic 2023_  
+- Lideré el desarrollo de Emigro, una billetera digital basada en la blockchain Stellar, utilizando Expo para la creación de la aplicación móvil.  
+- Implementé funcionalidades clave como autenticación segura de usuarios mediante AWS Cognito, operaciones de on/off ramp de dinero fiat, y swap de activos y pagos dentro de la plataforma.  
+- Logramos obtener 2 **grants** de la **Fundación Stellar**, lo que permitió financiar el desarrollo de la aplicación.  
 
 ---
 
 ## 🛠️ Habilidades Técnicas  
-- **Frontend:** React, React Native, TypeScript  
-- **Backend:** Node.js, Nest.js  
-- **Bases de Datos:** PostgreSQL  
-- **Seguridad y Autenticación:** AWS Cognito, Snyk (para análisis de vulnerabilidades)  
-- **Testing:** Jest para pruebas unitarias  
-- **Herramientas y Metodologías:**  
-   - **Control de Versiones:** Git, GitHub  
-   - **Pruebas de API:** Postman  
-   - **Metodologías Ágiles:** Scrum (participación en reviews de pull requests)  
-   - **Principios de Desarrollo:** SOLID  
 
-[Descargar mi CV] [CV Software Developer - Belasich Ivan]([CV Software Developer - Belasich Iván.pdf](https://github.com/user-attachments/files/19153695/CV.Software.Developer.-.Belasich.Ivan.pdf)
-)
+- **Frontend:** React, React Native, TypeScript, Tailwind CSS, Zustand, Next.js  
+- **Backend:** Node.js, NestJS, PostgreSQL, Express.js  
+- **Blockchain:** Stellar  
+- **DevOps:** Docker, GitHub Actions, Snyk  
+- **Testing:** Jest, Cypress, React Native Testing Library  
+- **Principios y Enfoques de Diseño:** SOLID, Clean Architecture  
+- **Metodologías:** Agile, Scrum  
+- **Herramientas:** Git, GitHub, Postman, Figma  
 
 ---
 
 ## 📬 ¡Conéctate Conmigo!  
+
 - ✉️ **Email:** [ivanbelasich@gmail.com](mailto:ivanbelasich@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/ivanbelasich](https://linkedin.com/in/ivanbelasich)  
+- 📞 **Teléfono:** +54 9 3447543862  
 
 ---
 
