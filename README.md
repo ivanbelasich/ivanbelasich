@@ -3,7 +3,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/c2b69d49-bef8-4362-b29c-a0de471f6714)
 
 ## 🌟 Sobre Mí  
-Soy un Desarrollador Full Stack con más de 2 años de experiencia trabajando en startups fintech, colaborando en proyectos basados en la blockchain Stellar. Aunque tengo conocimientos de backend, mi enfoque principal está en el desarrollo frontend y mobile, creando soluciones seguras, escalables y siguiendo buenas prácticas de código.  
+Soy un **Desarrollador Full Stack** con más de 2 años de experiencia trabajando en startups fintech, colaborando en proyectos basados en la blockchain **Stellar**. Aunque tengo conocimientos de backend, mi enfoque principal está en el desarrollo **frontend y mobile**, creando soluciones seguras, escalables y siguiendo buenas prácticas de código.  
 
 ---
 
@@ -12,25 +12,27 @@ Soy un Desarrollador Full Stack con más de 2 años de experiencia trabajando en
 ### **GranMentú**  
 **Frontend Developer**  
 _Feb 2025 – Actualidad_  
-- Lideré la migración del proyecto LongX desde Create React App a Vite, mejorando significativamente el rendimiento y la velocidad de construcción del proyecto.  
-- Participé en el desarrollo de la landing page de Intercripto, una plataforma de arbitraje de criptomonedas, utilizando tecnologías modernas como React y Tailwind CSS.  
+- Lideré la migración del proyecto **LongX** desde **Create React App** a **Vite**, mejorando significativamente el rendimiento y la velocidad de construcción del proyecto.  
+- Participé en el desarrollo de la **landing page de Intercripto**, una plataforma de arbitraje de criptomonedas, utilizando tecnologías modernas como **React** y **Tailwind CSS**.  
 
 ### **Bigger (Australia)**  
 **Frontend Developer**  
 _Dic 2023 – Dic 2024_  
-- Lideré el desarrollo de una billetera digital white-label desde cero, implementando funcionalidades clave como swaps de activos, pagos, visualización de balances y transacciones, y autenticación segura mediante **AWS Cognito**.  
-- Desarrollé formularios de KYC (Know Your Customer) para usuarios individuales y KYB (Know Your Business) para empresas, asegurando el cumplimiento de normativas y la seguridad de los datos.  
-- Participé en el desarrollo de la landing page de PlanetPay, optimizando la experiencia del usuario y mejorando la conversión de visitantes a clientes.  
-- Trabajé en un entorno con CI/CD configurado mediante GitHub Actions, utilizando Snyk para la detección y corrección de vulnerabilidades, reduciendo tiempos de despliegue y asegurando la calidad y seguridad del código.  
-- Implementé testing automatizado con Jest, React Testing Library y Cypress, mejorando la estabilidad del código y reduciendo errores en producción.  
-- Utilicé Tailwind CSS para el maquetado de interfaces, siguiendo principios de diseño responsive.  
-- Apliqué principios de diseño SOLID y Clean Architecture para garantizar un código mantenible y escalable.  
+- Lideré el desarrollo de una **billetera digital white-label** desde cero, implementando funcionalidades clave como **swaps de activos, pagos, visualización de balances y transacciones**, y autenticación segura mediante **AWS Cognito**.  
+- Desarrollé formularios de **KYC (Know Your Customer)** para usuarios individuales y **KYB (Know Your Business)** para empresas, asegurando el cumplimiento de normativas y la seguridad de los datos.  
+- Participé en el desarrollo de la **landing page de PlanetPay**, optimizando la experiencia del usuario y mejorando la conversión de visitantes a clientes.  
+  - 🌐 **PlanetPay Landing Page:** [PlanetPay](https://planetpay.io)  
+- Trabajé en un entorno con **CI/CD** configurado mediante **GitHub Actions**, utilizando **Snyk** para la detección y corrección de vulnerabilidades, reduciendo tiempos de despliegue y asegurando la calidad y seguridad del código.  
+- Implementé **testing automatizado** con **Jest**, **React Testing Library** y **Cypress**, mejorando la estabilidad del código y reduciendo errores en producción.  
+- Utilicé **Tailwind CSS** para el maquetado de interfaces, siguiendo principios de diseño **responsive**.  
+- Apliqué principios de diseño **SOLID** y **Clean Architecture** para garantizar un código mantenible y escalable.  
 
 **FullStack Developer**  
 _Abril 2023 – Dic 2023_  
-- Lideré el desarrollo de Emigro, una billetera digital basada en la blockchain Stellar, utilizando Expo para la creación de la aplicación móvil.  
-- Implementé funcionalidades clave como autenticación segura de usuarios mediante AWS Cognito, operaciones de on/off ramp de dinero fiat, y swap de activos y pagos dentro de la plataforma.  
+- Lideré el desarrollo de **Emigro**, una billetera digital basada en la blockchain **Stellar**, utilizando **Expo** para la creación de la aplicación móvil.  
+- Implementé funcionalidades clave como **autenticación segura de usuarios mediante AWS Cognito**, operaciones de **on/off ramp de dinero fiat**, y **swap de activos y pagos** dentro de la plataforma.  
 - Logramos obtener 2 **grants** de la **Fundación Stellar**, lo que permitió financiar el desarrollo de la aplicación.  
+- 🎥 **Demo:** [Ver video de demostración](https://www.youtube.com/watch?v=nS8COzNxajc)  
 
 ---
 
@@ -56,4 +58,3 @@ _Abril 2023 – Dic 2023_
 ---
 
 ⭐️ *¡Gracias por visitar mi perfil!*  
-
