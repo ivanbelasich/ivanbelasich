@@ -11,7 +11,7 @@ Actualmente me desempeño como **Frontend Developer** en [GranMenú](https://gra
 
 ## 🎯 Experiencia  
 
-### **GranMend**  
+### **KeroKero**  
 **Frontend Developer**  
 _Feb 2025 – Actualidad_  
 - Lideré la migración del proyecto **LongX** desde **Create React App** a **Vite**, mejorando significativamente el rendimiento y la velocidad de construcción del proyecto.  
