@@ -3,7 +3,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/c2b69d49-bef8-4362-b29c-a0de471f6714)
 
 ## 🌟 Sobre Mí  
-Soy un **Desarrollador de Software** con más de 2 años de experiencia en el desarrollo de aplicaciones web y móviles, especializado en frontend y con sólidos conocimientos en backend. He trabajado en proyectos Fintech y blockchain, aplicando principios de diseño limpio, metodologías ágiles y prácticas modernas de testing y CI/CD para entregar soluciones escalables y de alta calidad.  
+Soy un **Desarrollador de Software** con más de 3 años de experiencia en el desarrollo de aplicaciones web y móviles, especializado en frontend y con sólidos conocimientos en backend. He trabajado en proyectos Fintech y blockchain, aplicando principios de diseño limpio, metodologías ágiles y prácticas modernas de testing y CI/CD para entregar soluciones escalables y de alta calidad.  
 
 Actualmente me desempeño como **Frontend Developer** en [GranMenú](https://granmenu.me/) pero anteriormente trabajé en [Bigger](https://www.biggertech.co).  
 
